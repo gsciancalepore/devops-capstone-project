@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Estado de la construcción](https://github.com/gsciancalepore/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 En este proyectos aplicaré todo lo aprendido durante los 14 cursos del certificado de DevOps e Ingeniería de Software de IBM 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
